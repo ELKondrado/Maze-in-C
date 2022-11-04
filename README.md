@@ -1,1 +1,2 @@
-# Maze-in-C dynamically allocated 
+# Maze-in-C 
+This repository is a Maze solver algorithm which uses dynamically allocated memory in order to be more efficient. The program takes an .txt file which represents the maze, the start point is represented by 'S' and the end by 'E', every wall and path from the maze is represented by the character '#', and the character ' ' respectively. When the algorithm finishes computing in return an .txt file which is the solution for the maze, and the path is formed by a long succession of '.' characters.
