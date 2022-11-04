@@ -1,1 +1,1 @@
-# Maze-in-C allocated dynamically
+# Maze-in-C dynamically allocated 
